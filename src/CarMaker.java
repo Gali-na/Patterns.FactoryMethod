@@ -1,0 +1,3 @@
+interface CarMaker {
+    Car  makeCar();
+}
